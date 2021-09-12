@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mati Giménez</h1>
 <h3 align="center">I'm a passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Baufest**
+- 🔭 I’m currently working on **Telecom Argentina**
 
 - 🌱 I’m currently learning **React Native and Python**
 
